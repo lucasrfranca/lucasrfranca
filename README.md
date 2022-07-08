@@ -1,7 +1,7 @@
 ### Olá. meu nome é Lucas França e sou estudante de programação 👋
 
 
-- 🌱 Estudando ... Linguagens de programação Front end
+- 🌱 Estudando ... Programação Mobile e JAVA
 - 📫 Contato: ... lucas.rfranca@gmail.com
 
 <div align="center">
