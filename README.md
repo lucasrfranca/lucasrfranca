@@ -19,7 +19,6 @@ src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
    <img align="center" alt="Lucas-JAVA" height="30" width="40"
 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-    
 </div> <br>
 <div> 
   <a href="https://instagram.com/lucasrfranca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
